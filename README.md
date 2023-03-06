@@ -2,7 +2,7 @@
 
 ### Description
 
-- Java project.
+- Java API project.
 
 ### Technologies
 
